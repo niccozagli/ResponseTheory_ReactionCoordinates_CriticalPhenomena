@@ -1,0 +1,2 @@
+,sigmaC,sigmaA,theta,eps,h0,sim6,sim12,sim24,sim48
+0,1,1.4,2.0,0.02,2,262200,91900,120250,55750
